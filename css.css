@@ -2,3 +2,20 @@
   padding: 0;
   margin: 0 auto;
 }
+#box{
+  margin-top: 80px;
+  width: 400px;
+  height: 300px;
+  background-color: red;
+  position: relative;
+}
+#timer{
+  width: 200px;
+  height: 60px;
+  background-color: white;
+  color:green;
+  font-size: 35px;
+  position: absolute;
+  top:40%;
+  left:25%;
+}
